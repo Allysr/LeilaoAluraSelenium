@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-<img width="700px" alt="Site para testes automatizados CuraHealthcare" src="https://i.imgur.com/JDqxQL3.png" />
+<img width="600px" alt="Site para testes automatizados CuraHealthcare" src="https://i.imgur.com/Pq2UuAt.png" />
 </div>
 <br>
 
