@@ -9,8 +9,3 @@
 </div>
 <br>
 
-
-
-<br>
-Site utilizado: http://localhost:8080
-<h1>
